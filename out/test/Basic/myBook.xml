@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <name>Web前端开发</name>
+        <score>10</score>
+        <price>60</price>
+    </book>
+</books>

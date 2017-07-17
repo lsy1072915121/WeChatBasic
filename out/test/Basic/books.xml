@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<books>
+    <book>
+        <a>
+
+            <name>Java编程思想</name>
+            <score>9.0</score>
+            <price>45</price>
+
+        </a>
+    </book>
+    <book>
+        <a>
+
+            <name>Java设计模式</name>
+            <score>8.9</score>
+            <price>50</price>
+
+        </a>
+    </book>
+
+</books>
